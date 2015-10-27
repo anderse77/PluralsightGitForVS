@@ -11,6 +11,7 @@ namespace VS2015Demo
         static void Main(string[] args)
         {
             //Changes on the main branch from VS2015.
+            //v1.1 changes.
         }
     }
 }
